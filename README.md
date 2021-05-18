@@ -263,7 +263,7 @@ class SVGDefault(FourierFromSVG):
         "file_name": "c_clef", # in assets/svg_images/c_clef.svg
     }
 ```
-<p align="center"><img src ="/gifs/FourierFromSVG.gif" /></p>
+<p align="center"><img src ="/gifs/SVGDefault.gif" /></p>
 
 ### ZoomedActivate
 ```python
